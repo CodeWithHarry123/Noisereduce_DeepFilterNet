@@ -44,3 +44,6 @@ output_video_speedup.mkv
 
 # Temporary
 tmp/
+DeepFilterNet/models/*.zip
+DeepFilterNet/models/*.tar.gz
+DeepFilterNet/models/*.onnx
