@@ -1,0 +1,46 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / Packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyCharm / IDEs
+.idea/
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Large media files (optional, but good practice if not intended for repo)
+*.wav
+*.mp3
+*.m4a
+*.mkv
+*.mp4
+# Keep specific assets if needed, but generally ignore generated output
+*_AI_enhanced.wav
+output_video_speedup.mkv
+
+# Temporary
+tmp/

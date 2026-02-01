@@ -1,0 +1,11 @@
+torch
+torchaudio
+soundfile
+numpy
+pydub
+ffmpeg-python
+loguru
+icecream
+librosa
+noisereduce
+onnxruntime
